@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    font-size: 20px
+}
+
+.section {
+    font-size: 20p
+}
+
+
+.barra-progresso {
+    display: grid;
+}
+
+strong {
+    font-size: 30px;
+}
